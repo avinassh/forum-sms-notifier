@@ -3,10 +3,10 @@ forum-sms-notifier
 
 Sends sms notification whenever you receive a new Private Message on your favorite forum!
 
-Requirements :
+**Requirements** :
   - You need Python 2.7.* version. Python 3 is not supported.
 
-Instructions :
+**Instructions** :
   - Currently this supports only forums running with Xenforo. And also requires little manual effort. Yeah, that sucks.
   - Visit your favourite Xenforo forum and find out the login page. Something like this : http://xenforo.com/community/login
   - Or it could be http://example.com/login
@@ -15,7 +15,7 @@ Instructions :
   - Open up config.py in your favorite text editor. Enter all the data. Don't worry, I am not sending these data to NSA.
   - That'all!
 
-How to :
+**How to** :
   - So everytime you run the sendMeSMSonPM.py it checks for unread private messages on the forum and sends you a sms.
   - To run the script just once, just do : 
           ```python sendMeSMSonPM.py```
@@ -23,13 +23,13 @@ How to :
   - If you are in Windows 7 or higher, use Task Scheduler. Program will be python executable file and argument will be path to sendMeSMSonPM.py file.
 
 
-Note :
+**Note** :
   - This a stateless script, so everytime the script is run it will send you an alert for every unread messages.
   - As of now you will just receive the name of the sender.
   - Though required modules BeautifulSoup and Requests are already provided in the package, advanced users may go ahead and get latest modules from pip or easy_install.
 
 
-Future plans : 
+**Future plans** : 
   - Make more readable code with comments and stuff.
   - Lil conversation description in the SMS.
   - Errors and exceptions handling.
@@ -40,7 +40,7 @@ Future plans :
   - Persistance. So that you don't keep on getting alerts for unread messages.
   - Add better read me and instructions.
 
-Known bugs :
+**Known bugs** :
   - None as of now. Sweet.
   
   
