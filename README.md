@@ -1,6 +1,8 @@
 forum-sms-notifier
 ==================
 
+version : 0.01 alpha.
+
 Sends sms notification whenever you receive a new Private Message on your favorite forum!
 
 **Requirements** :
@@ -43,5 +45,6 @@ Sends sms notification whenever you receive a new Private Message on your favori
 **Known bugs** :
   - None as of now. Sweet.
   
-  
+**Changelog** :
+  - 2/Oct/2013 : Simple working script. No advanced stuff.
   
