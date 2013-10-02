@@ -1,0 +1,6 @@
+forumLink = '' 
+myForumUserName = ''
+myForumPassword = ''
+myFullOnSMSUserName = ''
+myFullOnSMSPassword = ''
+myMobileNo = ''
