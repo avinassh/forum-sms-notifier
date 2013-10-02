@@ -1,0 +1,6 @@
+forumLink = 'http://techenclave.com/community'
+myForumUserName = 'avi'
+myForumPassword = 'iamsocool'
+myFullOnSMSUserName = '9845098450'
+myFullOnSMSPassword = 'iamsocool'
+myMobileNo = '9845098450'
