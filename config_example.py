@@ -4,4 +4,4 @@ myForumUserName = 'avi'
 myForumPassword = 'iamsocool'
 myFullOnSMSUserName = '9845098450'
 myFullOnSMSPassword = 'iamsocool'
-myMobileNo = '9845098450'
+myMobileNo = '9845098450' #this is the mobile number where you will receive alerts.
