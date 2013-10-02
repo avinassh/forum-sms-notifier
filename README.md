@@ -1,7 +1,7 @@
 forum-sms-notifier
 ==================
 
-version : 0.01 alpha.
+_version : 0.01 alpha._
 
 Sends sms notification whenever you receive a new Private Message on your favorite forum!
 
